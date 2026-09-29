@@ -1,0 +1,122 @@
+[
+  {
+    "id": "rev-LA-0001-1",
+    "productId": "LA-0001",
+    "customerName": "Areeba K.",
+    "rating": 4,
+    "text": "Beautiful finish, exactly as pictured. Packaging was lovely too.",
+    "date": "2026-08-30T19:15:31.008Z",
+    "verifiedPurchase": false,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0002-1",
+    "productId": "LA-0002",
+    "customerName": "Sana M.",
+    "rating": 5,
+    "text": "Good quality for the price. Would order again.",
+    "date": "2026-08-27T19:15:31.008Z",
+    "verifiedPurchase": true,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0003-1",
+    "productId": "LA-0003",
+    "customerName": "Hira A.",
+    "rating": 4,
+    "text": "Smaller than I expected but still very pretty.",
+    "date": "2026-08-24T19:15:31.008Z",
+    "verifiedPurchase": true,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0004-1",
+    "productId": "LA-0004",
+    "customerName": "Fatima R.",
+    "rating": 5,
+    "text": "Fast to receive and well made.",
+    "date": "2026-08-21T19:15:31.008Z",
+    "verifiedPurchase": false,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0005-1",
+    "productId": "LA-0005",
+    "customerName": "Zara N.",
+    "rating": 4,
+    "text": "Great addition to my bracelet stack.",
+    "date": "2026-08-18T19:15:31.008Z",
+    "verifiedPurchase": true,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0006-1",
+    "productId": "LA-0006",
+    "customerName": "Areeba K.",
+    "rating": 5,
+    "text": "Beautiful finish, exactly as pictured. Packaging was lovely too.",
+    "date": "2026-08-15T19:15:31.008Z",
+    "verifiedPurchase": true,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0007-1",
+    "productId": "LA-0007",
+    "customerName": "Sana M.",
+    "rating": 4,
+    "text": "Good quality for the price. Would order again.",
+    "date": "2026-08-12T19:15:31.008Z",
+    "verifiedPurchase": false,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0008-1",
+    "productId": "LA-0008",
+    "customerName": "Hira A.",
+    "rating": 5,
+    "text": "Smaller than I expected but still very pretty.",
+    "date": "2026-08-09T19:15:31.008Z",
+    "verifiedPurchase": true,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0009-1",
+    "productId": "LA-0009",
+    "customerName": "Fatima R.",
+    "rating": 4,
+    "text": "Fast to receive and well made.",
+    "date": "2026-08-06T19:15:31.008Z",
+    "verifiedPurchase": true,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0010-1",
+    "productId": "LA-0010",
+    "customerName": "Zara N.",
+    "rating": 5,
+    "text": "Great addition to my bracelet stack.",
+    "date": "2026-08-03T19:15:31.008Z",
+    "verifiedPurchase": false,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0011-1",
+    "productId": "LA-0011",
+    "customerName": "Areeba K.",
+    "rating": 4,
+    "text": "Beautiful finish, exactly as pictured. Packaging was lovely too.",
+    "date": "2026-07-31T19:15:31.008Z",
+    "verifiedPurchase": true,
+    "isDemoData": true
+  },
+  {
+    "id": "rev-LA-0012-1",
+    "productId": "LA-0012",
+    "customerName": "Sana M.",
+    "rating": 5,
+    "text": "Good quality for the price. Would order again.",
+    "date": "2026-07-28T19:15:31.008Z",
+    "verifiedPurchase": true,
+    "isDemoData": true
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "LA-0001": {
+    "id": "LA-0001",
+    "createdAt": "2026-09-06T03:22:59.640Z",
+    "updatedAt": "2026-09-07T03:24:22.493Z",
+    "additionalImages": [
+      "/images/products/kitty-charm.jpg",
+      "/images/products/kitty-charm.jpg"
+    ],
+    "viewCount": 494,
+    "rating": 4.2,
+    "reviewCount": 12,
+    "isDemoData": true,
+    "name": "Kitty Charm",
+    "category": "charms",
+    "subcategory": "Kitty Charm",
+    "description": "A sweet hand-finished kitty charm, perfect for bracelets and bag charms.",
+    "image": "/images/products/kitty-charm.jpg",
+    "price": 350,
+    "stock": 14,
+    "featured": true,
+    "bestseller": true,
+    "trending": false,
+    "newArrival": false,
+    "additional_images": [
+      "/images/products/kitty-charm.jpg",
+      "/images/products/kitty-charm.jpg"
+    ],
+    "original_price": null,
+    "review_count": 119,
+    "view_count": 494,
+    "new_arrival": false,
+    "is_demo_data": true,
+    "created_at": "2026-09-07T00:30:10.817+00:00",
+    "updated_at": "2026-09-07T00:30:10.817+00:00"
+  },
+  "LA-0005": {
+    "id": "LA-0005",
+    "createdAt": "2026-09-06T03:25:35.928Z",
+    "updatedAt": "2026-09-07T03:50:50.956Z",
+    "additionalImages": [
+      "/images/products/panda-bambo.jpg",
+      "/images/products/panda-bambo.jpg"
+    ],
+    "viewCount": 2090,
+    "rating": 4.8,
+    "reviewCount": 169,
+    "isDemoData": true,
+    "name": "Panda Bambo",
+    "category": "charms",
+    "subcategory": "Panda Bambo",
+    "description": "Panda-with-bamboo charm, hand-detailed for a cute finish.",
+    "image": "/images/products/panda-bambo.jpg",
+    "price": 360,
+    "stock": 4,
+    "featured": false,
+    "bestseller": false,
+    "trending": false,
+    "newArrival": false,
+    "additional_images": [
+      "/images/products/panda-bambo.jpg",
+      "/images/products/panda-bambo.jpg"
+    ],
+    "original_price": null,
+    "review_count": 53,
+    "view_count": 2090,
+    "new_arrival": false,
+    "is_demo_data": true,
+    "created_at": "2026-09-07T00:30:10.817+00:00",
+    "updated_at": "2026-09-07T03:48:41.057+00:00"
+  }
+}
