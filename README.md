@@ -1,4 +1,10 @@
-# Kikicharms — E-commerce Website
+# Kiki Charms — E-commerce Storefront
+
+> **Live demo:** https://musabmannkikicharm.vercel.app  
+> **Source code:** https://github.com/Musab-Mann/musabmannkikicharm
+
+A full-stack storefront built with Next.js and Supabase. The production experience requires the Supabase project and environment variables described below; a successful Vercel build alone does not confirm that checkout, orders, or admin features are configured for live use.
+
 
 A complete Next.js storefront for handmade jewelry, charms, beads, keychains,
 tools and craft kits — real cart, real checkout with server-side validation,
